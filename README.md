@@ -18,18 +18,16 @@
 
 | 硬件     | 型号                                  |
 | :------- | ------------------------------------- |
-| 处理器   | Intel i5-9600K                        |
+| 处理器   | Intel i7-8700 apple                    |
 | 主板     | MSI MAG Z390 TOMAHAWK                 |
-| 内存     | G.SKILL 8GB DDR4 3200MHz * 2          |
+| 内存     | 16GB DDR4 3200MHz * 4  64GB           |
 | 硬盘     | HIKVISION C2000 PRO 1T                |
-| 显卡     | Sapphire AMD RX590 8G                 |
+| 显卡     | AMD Radeon Pro 555 2G                 |
 | 无线蓝牙 | Broadcom BCM94360CS2 Wireless LAN SoC |
-| 电源     | CoolerMaster V550                     |
-| 散热器   | Thermalright AS120 PLUS               |
-| 显示器   | AOC U2790VQ 27'' 4K                   |
-| 鼠标     | Logitech MX Master 3                  |
-| 键盘     | RK ROYAL KLUDGE RG928                 |
-| 机箱     | JONSBO U4                             |
+| 电源     | 先马 金牌  全模组 750w                     |
+| 散热器   | id cooling 240水冷               |
+| 显示器   | 飞利浦276E   27'' 4K                   |
+| 机箱     | 先马 静音机箱                             |
 
 ### 功能完善程度
 
